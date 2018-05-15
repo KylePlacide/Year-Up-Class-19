@@ -1,0 +1,58 @@
+body, html {font-family: 'Stylish', sans-serif;
+	text-align:center;
+
+}
+.jumbotron{
+    background: url(tie1.gif) left top no-repeat, url(tie2.gif) right bottom no-repeat, url(tie3.gif) left top repeat;
+    padding: 15px;
+    background-size: 200px, 130px, auto;
+    background-color: darkblue;
+    color: white;
+
+}
+	h2{text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gold;
+}
+
+li{
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: gold;
+}
+.container-fluid{
+	
+}
+.col-sm-8{
+
+	background-color: blue;
+
+}
+.col-sm-4 {
+  text-align: center;
+
+}
+.col-md-2{
+	padding-left: 10px;
+	background-color:;
+
+}
+.row{
+	
+}
